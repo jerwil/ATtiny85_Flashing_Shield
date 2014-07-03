@@ -4,7 +4,7 @@ A shield for Arduino Uno to make flashing the ATtiny85 quicker and easier.
 
 ![](https://raw.githubusercontent.com/jerwil/ATtiny85_Flashing_Shield/master/Media/ISO%20View%201.jpg "The Shield")
 
-![](https://raw.githubusercontent.com/jerwil/ATtiny85_Flashing_Shield/master/Media/ATtiny85%20Flashing%20Shield_bb.png "Circuit Diagram")
+![](https://raw.githubusercontent.com/jerwil/ATtiny85_Flashing_Shield/master/Media/ATtiny85%20Flashing%20Shield.png "Circuit Diagram")
 
 ## Features
 
